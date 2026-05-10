@@ -11,47 +11,37 @@
 
 Soy desarrollador Full Stack con un enfoque fuerte en backend, donde disfruto diseñar APIs robustas, seguras y escalables. Me interesa construir aplicaciones bien estructuradas, aplicando buenas prácticas y pensando siempre en la mantenibilidad del código.
 
-Busco mi primera oportunidad profesional dentro de un equipo donde pueda aportar valor, adaptarme rápidamente y seguir creciendo como desarrollador, tanto en frontend como backend.
+Actualmente apunto a contribuir dentro de un equipo donde pueda aportar valor, adaptarme rápidamente y seguir creciendo como desarrollador, tanto en frontend como backend.
 
 Fuera del código, la música es una parte importante de mi vida: toco la guitarra y formé parte de una banda 🎸
 
 ---
 
 ## 🚀 Proyecto destacado
+## 🍽️ GastroFlow
 
-🛒 **E-Commerce Backend**
+Plataforma de gestión gastronómica enfocada en reservas, órdenes y flujo de cocina.
 
-Desarrollé una API completa para una plataforma de comercio electrónico, implementando:
+Desarrollada en equipo utilizando arquitectura modular y buenas prácticas backend.
 
-* 🔐 Autenticación con JWT, Guards y manejo de roles
-* 👤 Gestión de usuarios
-* 📦 Productos con imágenes en la nube (Cloudinary)
-* 🛒 Órdenes y detalle de órdenes
-* 🗄️ Base de datos relacional con PostgreSQL
-* 🧱 Arquitectura modular con NestJS
+## Funcionalidades
+🔐 Autenticación y autorización con JWT y roles
+🍕 Gestión de órdenes y estados
+🪑 Reservas de mesas
+📦 Gestión de productos y categorías
+📨 Notificaciones automáticas
+🗄️ PostgreSQL + TypeORM
+🧱 Arquitectura escalable con NestJS
 
----
+## Stack
+  
+NestJS
+TypeScript
+PostgreSQL
+TypeORM
+React
+Cloudinary
 
-## ⚙️ Tecnologías
-
-### Backend
-
-* Node.js
-* NestJS
-* TypeScript
-* PostgreSQL
-
-### Frontend
-
-* React
-* Vite
-
-### Otros
-
-* Cloudinary
-* Git & GitHub
-
----
 
 ## 📫 Contacto
 
