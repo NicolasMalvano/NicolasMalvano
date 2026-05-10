@@ -18,30 +18,92 @@ Fuera del código, la música es una parte importante de mi vida: toco la guitar
 ---
 
 ## 🚀 Proyecto destacado
-## 🍽️ GastroFlow
 
-Plataforma de gestión gastronómica enfocada en reservas, órdenes y flujo de cocina.
+# 🍽️ GastroFlow
 
-Desarrollada en equipo utilizando arquitectura modular y buenas prácticas backend.
+GastroFlow es una plataforma de gestión gastronómica diseñada para digitalizar y optimizar la operación de restaurantes. La aplicación permite a los clientes descubrir restaurantes adheridos, consultar sus menús, realizar reservas online y gestionar pedidos de manera simple e intuitiva.
 
-## Funcionalidades
-🔐 Autenticación y autorización con JWT y roles
-🍕 Gestión de órdenes y estados
-🪑 Reservas de mesas
-📦 Gestión de productos y categorías
-📨 Notificaciones automáticas
-🗄️ PostgreSQL + TypeORM
-🧱 Arquitectura escalable con NestJS
+Por otro lado, los restaurantes que contratan el servicio cuentan con un sistema integral para administrar reservas, mesas, empleados, órdenes y métricas en tiempo real, centralizando toda la operación del negocio en una única plataforma.
 
-## Stack
-  
-NestJS
-TypeScript
-PostgreSQL
-TypeORM
-React
-Cloudinary
+El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplicando buenas prácticas tanto en backend como frontend, priorizando la escalabilidad, mantenibilidad y organización del código.
 
+---
+
+## ✨ Funcionalidades
+
+### Para clientes
+- 👤 Perfil de usuario con Imagen 
+- 🔎 Exploración de restaurantes adheridos
+- 📖 Visualización de menús digitales
+- 🪑 Reservas online con seña de pago
+- 💳 Integración de pagos
+- 📩 Confirmaciones y notificaciones automáticas
+
+### Para restaurantes
+
+- 🍕 Gestión de órdenes y comandas en tiempo real
+- 👨‍🍳 Flujo de cocina y seguimiento de estados
+- 👥 Creación y administración de empleados:
+  - Meseros
+  - Cocineros
+  - Cajeros
+- 🪑 Gestión de mesas y capacidad del restaurante
+- 🍽️ Administración de platillos y categorías
+- 📊 Métricas y estadísticas avanzadas sobre:
+  - Órdenes
+  - Rendimiento de cocina
+  - Desempeño de meseros
+  - Pagos y facturación
+- 💬 Chat de soporte integrado con el equipo de GastroFlow
+- 🔐 Autenticación y autorización mediante JWT y roles
+
+---
+
+## 🧱 Arquitectura y características técnicas
+
+- Arquitectura modular escalable con NestJS
+- API REST estructurada y mantenible
+- Base de datos relacional con PostgreSQL
+- Manejo de imágenes en la nube con Cloudinary
+- Sistema de pagos y suscripciones con Stripe
+- Notificaciones automáticas mediante Brevo
+- Persistencia de datos utilizando TypeORM
+- Frontend moderno desarrollado con React
+
+---
+
+## ⚙️ Stack Tecnológico
+
+### Backend
+- NestJS
+- TypeScript
+- PostgreSQL
+- TypeORM
+
+### Frontend
+- React
+
+### Autenticación y Seguridad
+- JWT
+- Google OAuth 2.0
+- Role-Based Access Control (RBAC)
+
+### Documentación
+- Swagger / OpenAPI
+
+### Servicios e Integraciones
+- Stripe
+- Cloudinary
+- Brevo
+
+### Buenas Prácticas Implementadas
+- Arquitectura modular
+- DTO Validation
+- Guards & Interceptors
+- Manejo centralizado de errores
+- Variables de entorno
+- Relaciones complejas con TypeORM
+- Principios REST
 
 ## 📫 Contacto
 
