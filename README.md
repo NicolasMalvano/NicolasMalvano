@@ -27,7 +27,54 @@ Por otro lado, los restaurantes que contratan el servicio cuentan con un sistema
 
 El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplicando buenas prácticas tanto en backend como frontend, priorizando la escalabilidad, mantenibilidad y organización del código.
 
+### 🔗 Deploy
+👉 [gastroflow-deploy](https://front-gastroflow.onrender.com/)
+
+### 🔗 Repositorios
+
+- 🖥️ Backend API  
+  👉 [gastroflow-api](https://github.com/gastroflow2026-cpu/BACK)
+
+- 🌐 Frontend Web  
+  👉 [gastroflow-web](https://github.com/gastroflow2026-cpu/FRONT)
+
 ---
+
+### ⚙️ Tecnologías principales
+
+`NestJS` `TypeScript` `PostgreSQL` `React` `Stripe`
+
+---
+
+## 🛠️ Tecnologías
+
+### Backend
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- TypeORM
+
+### Frontend
+- React
+- Next.js
+- Vite
+
+### Herramientas e Integraciones
+- Swagger
+- JWT
+- Google OAuth
+- Stripe
+- Cloudinary
+- Brevo
+- Git & GitHub
+
+---
+
+## 📫 Contacto
+
+📩 Email: Malvanonicolas@gmail.com  
+🔗 GitHub: https://github.com/NicolasMalvano
 
 ## ✨ Funcionalidades
 
