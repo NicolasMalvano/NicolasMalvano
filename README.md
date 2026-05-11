@@ -41,7 +41,7 @@ El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplican
 ---
 ## 📸 Preview
 
-![Home](./assets/home.png)
+![Home](./assets/Home.png)
 ![Dashboard](./assets/dashboard.png)
 
 ---
