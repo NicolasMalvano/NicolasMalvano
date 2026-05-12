@@ -1,14 +1,15 @@
 
 # 👋 Hola, soy Nicolás Malvano
 
-💻 Desarrollador Web Full Stack con especialización en backend
-🚀 Trabajo principalmente con Node.js, TypeScript y NestJS
+💻 Desarrollador Web Full Stack con especialización en backend  
+🚀 Trabajo principalmente con Node.js, TypeScript y NestJS  
 🎓 Estudiante de Licenciatura en Sistemas de Información (UNLu)
 
-📍Ubicación: Luján, Buenos Aires
+📍Ubicación: Luján, Buenos Aires  
+
+📧Mail: malvanonicolas@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-malvano/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasMalvano)
 ---
 
 ## 🧠 Sobre mí
@@ -82,11 +83,6 @@ El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplican
 - Git & GitHub
 
 ---
-
-## 📫 Contacto
-
-📩 Email: Malvanonicolas@gmail.com  
-🔗 GitHub: https://github.com/NicolasMalvano
 
 ## 🎯 Objetivo
 
