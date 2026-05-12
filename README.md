@@ -51,36 +51,27 @@ El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplican
 
 ---
 
-### ⚙️ Tecnologías principales
-
-![NestJS](https://img.shields.io/badge/NestJS-red)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-
----
-
 ## 🛠️ Tecnologías
 
 ### Backend
-- Node.js
-- NestJS
-- TypeScript
-- PostgreSQL
-- TypeORM
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### Frontend
-- React
-- Next.js
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Herramientas e Integraciones
-- Swagger
-- JWT
-- Google OAuth
-- Stripe
-- Cloudinary
-- Brevo
-- Git & GitHub
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
