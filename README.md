@@ -33,7 +33,7 @@ Por otro lado, los restaurantes que contratan el servicio cuentan con un sistema
 El proyecto fue desarrollado en equipo utilizando arquitectura modular y aplicando buenas prácticas tanto en backend como frontend, priorizando la escalabilidad, mantenibilidad y organización del código.
 
 ### 🔗 Deploy
-👉 [Ver aplicación]([https://front-gastroflow.onrender.com/])
+👉 [Ver aplicación](https://front-gastroflow.onrender.com/)
 
 ### 🔗 Repositorios
 
